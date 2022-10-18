@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eduarmarin, Mechatronics Engineer and now into learning programming 
+- 👋 Hi, I’m @eduarmarin, Mechatronics Engineer into learning programming 
 - 👀 By now, I’m interested in learn codding and practice my english
 - 🌱 I’m currently studying the Odin Project fundations!
 - 💞️ I’m looking to collaborate on basic projects let me to get practice with html, css, git and linux terminal
