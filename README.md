@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @eduarmarin, Mechatronics Engineer into learning programming 
-- 👀 By now, I’m interested in learning codding and practice my english
+- 👋 Hi, I’m @eduarmarin, Mechatronics Engineer enjoying to learn programming
+- 👀 By now, I’m interested in learning codding and practice english language
 - 🌱 I’m currently doing the Odin Project fundations!
-- 💞️ I’m looking to collaborate on basic projects that let me get practice with html, css, git and linux terminal
+- 💞️ I’m looking get into html, css, git, linux terminal, JavaScript jobs as a junior developer!
 - 📫 How to reach me> my email is donsecun@gmail.com
 
 <!---
